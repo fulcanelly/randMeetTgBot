@@ -1,0 +1,16 @@
+{
+  "name": "casual-meeting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-beautify": "^1.1.1",
+    "node-telegram-bot-api": "^0.40.0",
+    "sqlite3": "^4.1.0"
+  }
+}
